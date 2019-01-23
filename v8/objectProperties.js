@@ -24,3 +24,6 @@ performance.measure('performance test', 'start', 'end');
 const measure = performance.getEntriesByName('performance test');
 
 console.log(measure);
+
+// node version v8.11.3
+// node v8/objectProperties.js
